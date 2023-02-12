@@ -8,7 +8,7 @@ The dataset has one csv file for each currency. Price history is available on a 
 
 ### DETAILS OF DATASET
 DATE: The DATE describes the date of observations
-#### OPEN: The OPEN is the Opening Price on the given day.
+OPEN: The OPEN is the Opening Price on the given day.
 HIGH: The HIGH is the highest price on the given day.
 LOW: The LOW is the lowest price on the given day.
 CLOSE: The CLOSE is the closing price on the given day.
@@ -19,15 +19,15 @@ MARKET: CAP The MARKET CAP is the market capitalization in USD.
 AAVE COIN, BINANCE COIN, BITCOIN, CARDANO COIN, CHAINLINK COIN, COSMOS COIN, CRYPTO.COM COIN, DOGE COIN, EOS COIN, ETHERIUM, IOTA COIN, LITE COIN, MONOCOIN, NEM COIN, POLKADOT COIN, SOLANA COIN, STELLAR COIN, TETHER COIN, TRON COIN, UNISWAP COIN, USD COIN, WRAPPED BITCOIN, XRP COIN
 
 ### INSIGHTS TO BE FOUND?
-What is the Final Close Price?
-What is the highest close price?
-What is the lowest close price?
-What is the average daily volume?
-What is comparison of Close Price within selected time?
-What is Average Volume by Date range?
-What is Price Comparison table of various cryptocurrencies?
-Who are the best performers in last 30 Days and 365 Days?
-Who are the worst performers in last 30 Days and 365 Days? What is Price correlation of various cryptocurrencies?
+1. What is the Final Close Price?
+2. What is the highest close price?
+3. What is the lowest close price?
+4. What is the average daily volume?
+5. What is comparison of Close Price within selected time?
+6. What is Average Volume by Date range?
+7. What is Price Comparison table of various cryptocurrencies?
+8. Who are the best performers in last 30 Days and 365 Days?
+9. Who are the worst performers in last 30 Days and 365 Days? What is Price correlation of various cryptocurrencies?
 
 ### VISUAL ANALYTICS AND FINDINGS
 ![Cryptocurrency PBI Dashboard-2](https://user-images.githubusercontent.com/115374063/218335820-fce3a70b-bb62-4c53-ae90-765f65dff995.png)
