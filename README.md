@@ -8,7 +8,7 @@ The dataset has one csv file for each currency. Price history is available on a 
 
 ### DETAILS OF DATASET
 DATE: The DATE describes the date of observations
-OPEN: The OPEN is the Opening Price on the given day.
+#### OPEN: The OPEN is the Opening Price on the given day.
 HIGH: The HIGH is the highest price on the given day.
 LOW: The LOW is the lowest price on the given day.
 CLOSE: The CLOSE is the closing price on the given day.
