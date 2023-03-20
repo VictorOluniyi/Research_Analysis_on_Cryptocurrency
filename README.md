@@ -8,16 +8,15 @@ The dataset has one csv file for each currency. Price history is available on a 
 
 ### TECH STACK
 Microsoft Power BI and  Python
-The data scraped with python and then visualized with power BI
 
 ### DETAILS OF DATASET
-DATE: The DATE describes the date of observations
-OPEN: The OPEN is the Opening Price on the given day.
-HIGH: The HIGH is the highest price on the given day.
-LOW: The LOW is the lowest price on the given day.
-CLOSE: The CLOSE is the closing price on the given day.
-VOLUME: The VOLUMNE is the volume of transactions on the given day.
-MARKET: CAP The MARKET CAP is the market capitalization in USD.
+1. DATE: The DATE describes the date of observations
+2. OPEN: The OPEN is the Opening Price on the given day.
+3. HIGH: The HIGH is the highest price on the given day.
+4. LOW: The LOW is the lowest price on the given day.
+5. CLOSE: The CLOSE is the closing price on the given day.
+6. VOLUME: The VOLUMNE is the volume of transactions on the given day.
+7. MARKET: CAP The MARKET CAP is the market capitalization in USD.
 
 ### CRYPTOCURRIENCIES USED
 AAVE COIN, BINANCE COIN, BITCOIN, CARDANO COIN, CHAINLINK COIN, COSMOS COIN, CRYPTO.COM COIN, DOGE COIN, EOS COIN, ETHERIUM, IOTA COIN, LITE COIN, MONOCOIN, NEM COIN, POLKADOT COIN, SOLANA COIN, STELLAR COIN, TETHER COIN, TRON COIN, UNISWAP COIN, USD COIN, WRAPPED BITCOIN, XRP COIN
