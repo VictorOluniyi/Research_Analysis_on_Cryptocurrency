@@ -6,6 +6,10 @@ A cryptocurrency is a digital or virtual currency that is secured by cryptograph
 ### DATA SOURCING
 The dataset has one csv file for each currency. Price history is available on a daily basis from April 28, 2013. This dataset has the historical price information of some of the top crypto currencies by market capitalization.
 
+### TECH STACK
+Microsoft Power BI, Python
+The data scraped with python andx then visualized   
+
 ### DETAILS OF DATASET
 DATE: The DATE describes the date of observations
 OPEN: The OPEN is the Opening Price on the given day.
